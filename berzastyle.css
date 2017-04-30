@@ -1,0 +1,51 @@
+.body {
+	background-color: DarkKhaki;
+	padding: 50px;
+}
+
+#slika {
+	margin: 50px;
+	height: 500px;
+	width: 80%;
+	position: center;
+}	
+.linkovi {
+	display: inline;
+}
+
+li {
+	display: inline;
+	margin-left: 60px;
+	font-size: 24px;
+	position: center;
+	color: blue;
+	
+}
+
+#naslov{
+	color: DarkGreen;
+	font-size: 72px;
+	margin-left: 60px;
+	
+}
+#welcome {
+	color: DarkGreen;
+	font-size: 48px;
+	margin-left: 60px;
+}
+p {
+	color: DarkGreen;
+	font-size: 24px;
+	margin-left: 60px;
+	
+}
+
+td  {
+	border: 1px solid black;
+	
+}
+
+th  {
+	border: 1px solid black;
+	
+}
