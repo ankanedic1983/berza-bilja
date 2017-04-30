@@ -9,9 +9,9 @@
 <img id = "slika" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzoTE7Xqj4XhDY2ZyiGrzvuyVECZoOpITxlwVio7TelDUV6VMCrQ"/>
 
 <ul>
-	<li><a href="Pocetna.php">Početna</a></li>
-	<li><a href="Ponudite.php">Ponudite</a></li>
-	<li><a href="Pronadjite.php">Pronadjite</a></li>
+	<li><a href="pocetna.php">Početna</a></li>
+	<li><a href="ponudite.php">Ponudite</a></li>
+	<li><a href="pronadjite.php">Pronadjite</a></li>
 	<li><a href="">Iskustva</a></li>
 </ul>	
 
